@@ -22,5 +22,9 @@
   </h1>
 </div>
 
+I am Zeyu Mao and I am currently a PhD candidate 👨‍🎓 in Electrical and Computer Engineering at Texas A&M University 🤠. My research focuses on improving the power system resilience ⚡ against the High Impact Low Frequency (HILF) events 💥. I am also a full stack developer 👨‍💻, and have experience on serverless architecture and high performance computing 💨. I enjoy coding to make my life easier 😌, and I love sharing and open-sourcing to make others' lives easier ❤️.
+
+
+
 
 

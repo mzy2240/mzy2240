@@ -59,7 +59,7 @@
 
 
 <div align="center">
-<h2>:fire: GitHub Stats</h2>
+<h2>:fire: GitHub Stats (only from sourced and public repositories)</h2>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mzy2240&theme=dark&background=000000)](https://git.io/streak-stats)
